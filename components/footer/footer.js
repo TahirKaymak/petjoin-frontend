@@ -14,12 +14,12 @@ const Footer = () => {
                     <div className='footer-apps'>
                         <Link href={"/"}>
                             <a className='app'>
-                                <img src='/app.svg' alt='' />
+                                <img src='/app.svg' alt='/' />
                             </a>
                         </Link>
                         <Link href={"/"}>
                             <a className='app'>
-                                <img src='/store.svg' alt='' />
+                                <img src='/store.svg' alt='/' />
                             </a>
                         </Link>
                     </div>

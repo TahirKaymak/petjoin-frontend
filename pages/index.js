@@ -15,7 +15,7 @@ const Home = () => {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             </p>
             <div className='media'>
-              <img src='/backgraund.jpg' alt='' />
+              <img src='/backgraund.jpg' alt='/' />
             </div>
             <div className="buttons-row">
               <Link href={"/"}>
@@ -55,22 +55,22 @@ const Home = () => {
               <div className='mobile-apps'>
                 <Link href={"/"}>
                   <a className='app'>
-                    <img src='/app.svg' alt='' />
+                    <img src='/app.svg' alt='/' />
                   </a>
                 </Link>
                 <Link href={"/"}>
                   <a className='app'>
-                    <img src='/store.svg' alt='' />
+                    <img src='/store.svg' alt='/' />
                   </a>
                 </Link>
               </div>
             </div>
             <div className='media-content'>
               <div className='media'>
-                <img src='phone.png' alt="" />
+                <img src='phone.png' alt="/" />
               </div>
               <div className='media'>
-                <img src='phone2.png' alt="" />
+                <img src='phone2.png' alt="/" />
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@ const Home = () => {
             <div className='row'>
               <div className='blog-card'>
                 <div className='card-image'>
-                  <img src='/blogcard.png' alt />
+                  <img src='/blogcard.png' alt="/" />
                 </div>
                 <div className='blog-card-heading'>
                   Lorem ipsum dolor sit amet
@@ -93,7 +93,7 @@ const Home = () => {
               </div>
               <div className='blog-card'>
                 <div className='card-image'>
-                  <img src='/blogra.png' alt />
+                  <img src='/blogra.png' alt="/" />
                 </div>
                 <div className='blog-card-heading'>
                   Lorem ipsum dolor sit amet
@@ -106,7 +106,7 @@ const Home = () => {
             <div className='row'>
               <div className='blog-card'>
                 <div className='card-image'>
-                  <img src='/blogcard3.png' alt />
+                  <img src='/blogcard3.png' alt="/" />
                 </div>
                 <div className='blog-card-heading'>
                   Lorem ipsum dolor sit amet
@@ -117,7 +117,7 @@ const Home = () => {
               </div>
               <div className='blog-card'>
                 <div className='card-image'>
-                  <img src='/blogcard3.png' alt />
+                  <img src='/blogcard3.png' alt="/" />
                 </div>
                 <div className='blog-card-heading'>
                   Lorem ipsum dolor sit amet
@@ -137,7 +137,7 @@ const Home = () => {
               Lorem ipsum dolor sit amet
             </div>
             <div className='partner-media'>
-              <img src='adv.png' alt='' />
+              <img src='adv.png' alt='/' />
             </div>
             <div className='partner-btn-primary'>
               <button className='partner-btn'>
@@ -149,7 +149,7 @@ const Home = () => {
       </section>
       <section className='app-screen-section'>
         <div className='app-screen'>
-          <img src='/app-screen.png' alt='' />
+          <img src='/app-screen.png' alt='/' />
         </div>
       </section>
     </Layout >
